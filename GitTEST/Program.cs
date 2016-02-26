@@ -10,6 +10,9 @@ namespace GitTEST
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Asd");
+
+            Console.ReadKey();
         }
     }
 }
