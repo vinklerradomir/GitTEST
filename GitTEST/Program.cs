@@ -12,6 +12,8 @@ namespace GitTEST
         {
             Console.WriteLine("Asd");
 
+            string kurva = "KURVAAA";
+
             Console.ReadKey();
         }
     }
