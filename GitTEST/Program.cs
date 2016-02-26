@@ -14,6 +14,7 @@ namespace GitTEST
 
             string kurva = "KURVAAA";
             string pica = kurva;
+            //naposled
 
             Console.ReadKey();
         }
